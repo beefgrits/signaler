@@ -1,0 +1,31 @@
+{
+  "name": "signaler",
+  "version": "0.0.5",
+  "description": "Signaling server for WebRTC with Google authentication",
+  "main": "index.js",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2",
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beefgrits/signaler.git"
+  },
+  "keywords": [
+    "WebRTC",
+    "signaling",
+    "signaler",
+    "websocket"
+  ],
+  "author": "Nate Morrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beefgrits/signaler/issues"
+  },
+  "homepage": "https://github.com/beefgrits/signaler#readme"
+}
